@@ -1,3 +1,0 @@
-Hallo2
-test.txt
-zad01
